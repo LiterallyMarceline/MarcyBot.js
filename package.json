@@ -1,0 +1,26 @@
+{
+  "name": "marcybot",
+  "version": "1.0.0",
+  "description": "A Discord application created by LiterallyMarceline",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/literallymarceline/MarcyBot.js.git"
+  },
+  "author": "LiterallyMarceline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/literallymarceline/MarcyBot.js/issues"
+  },
+  "homepage": "https://github.com/literallymarceline/MarcyBot.js#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.11.1"
+  }
+}
